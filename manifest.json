@@ -1,0 +1,17 @@
+{
+  "name": "ApexTrack Fitness & Nutrición",
+  "short_name": "ApexTrack",
+  "description": "Seguimiento diario de nutrición, sobrecarga progresiva y rendimiento",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#060911",
+  "theme_color": "#060911",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
